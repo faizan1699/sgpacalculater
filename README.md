@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+git init
+git add README.md
+git commit -m "sgpa calculater deployd"
+git branch -M main
+git remote add origin https://github.com/faizan1699/sgpacalculater.git
+git push -u origin main
