@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/faizan1699/sgpacalculater/static/css/main.c05fc1ed.css",
-    "main.js": "/faizan1699/sgpacalculater/static/js/main.a974c57c.js",
-    "index.html": "/faizan1699/sgpacalculater/index.html",
-    "main.c05fc1ed.css.map": "/faizan1699/sgpacalculater/static/css/main.c05fc1ed.css.map",
-    "main.a974c57c.js.map": "/faizan1699/sgpacalculater/static/js/main.a974c57c.js.map"
+    "main.css": "/faizan1699/bysgpa/static/css/main.c05fc1ed.css",
+    "main.js": "/faizan1699/bysgpa/static/js/main.b36ced4f.js",
+    "index.html": "/faizan1699/bysgpa/index.html",
+    "main.c05fc1ed.css.map": "/faizan1699/bysgpa/static/css/main.c05fc1ed.css.map",
+    "main.b36ced4f.js.map": "/faizan1699/bysgpa/static/js/main.b36ced4f.js.map"
   },
   "entrypoints": [
     "static/css/main.c05fc1ed.css",
-    "static/js/main.a974c57c.js"
+    "static/js/main.b36ced4f.js"
   ]
 }
